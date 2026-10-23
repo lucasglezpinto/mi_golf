@@ -8,7 +8,7 @@ def inicio():
 
 palos = [
     {"id": 1,  "nombre": "Driver",
-     "distancias": {"mar_verano": 250, "mar_invierno": 230, "madrid_verano": 260, "madrid_invierno": 240}},
+     "distancias": {"mar_verano": 250, "mar_invierno": 230, "madrid_verano": 265, "madrid_invierno": 240}},
     {"id": 2,  "nombre": "Madera 4",
      "distancias": {"mar_verano": 200, "mar_invierno": 195, "madrid_verano": 210, "madrid_invierno": 205}},
     {"id": 3,  "nombre": "Hierro 5",
